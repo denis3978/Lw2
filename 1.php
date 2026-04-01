@@ -23,4 +23,3 @@ $average_age = $sum_age / $count;
 echo "\nСумма возрастов: $sum_age\n";
 echo "Количество пользователей: $count\n";
 echo "Средний возраст: " . round($average_age, 2) . " лет\n";
-?>
