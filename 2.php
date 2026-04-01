@@ -30,4 +30,3 @@ for ($i = 0; $i < count($matrix); $i++) {
 
 echo "\nМаксимальный элемент: $max_value\n";
 echo "Позиция: строка " . ($max_row + 1) . ", столбец " . ($max_col + 1) . "\n";
-?>
