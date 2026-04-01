@@ -21,4 +21,3 @@ if (count($arr) > 0) {
 
 echo "Массив после сдвига вправо:\n";
 echo implode(", ", $arr) . "\n";
-?>
